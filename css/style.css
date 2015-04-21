@@ -1,0 +1,33 @@
+/*My first stab at CSS*/
+
+body {
+  padding: 20px 1ox;
+  font-family: Arial;
+  margin-left: 50px em;
+  max-width: 2500px;
+  color: #660033;
+  margin: 0 auto;
+  /*I know that the zero refers to top and bottom margins based on the example provided in class, but I don't really understand what the "auto" does.*/
+  
+  font-size: 1.0em;
+  /*This sets the font size for the body. The "em" italicizes the text.*/
+}
+
+h1 {
+  text-align: left;
+  color: #993399
+}
+
+h3 {
+  text-align: left;
+  color: #000000;
+}
+
+h5 {
+  text-align: left;
+  color: #000000;
+}
+
+p {
+  color: #111111;
+}
